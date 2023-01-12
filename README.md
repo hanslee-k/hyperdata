@@ -8,3 +8,4 @@
 
 2. [Hyperdata 및 관련 모듈들을 설치하는 installer](./install)
 
+변동사항적용
